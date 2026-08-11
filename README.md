@@ -19,3 +19,4 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 
 **Day 5:** Learned nested conditionals and the random module. Built a Number Guessing Game with Too High/Too Low hints. Learned that Python is case-sensitive (randint vs Randint) and cleaned up unreachable "dead code" in my logic.
 
+**Day 6:** Learned for loops and while loops. Built a Multiplication Table generator and a Star Pattern printer using string multiplication (`"*" * n`). Debugged a TypeError from misplaced syntax and a logic bug where I accidentally used addition instead of multiplication.
