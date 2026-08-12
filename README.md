@@ -30,3 +30,24 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 - [x] Day 5: Conditionals, guessing game
 - [x] Day 6: Loops, multiplication table, star pattern
 - [ ] Day 7: Review + Mini Quiz + First Blog Post
+
+## 📝 Blog - Week 1
+
+### What I learned this week
+Python basics முழுசா கத்துகிட்டேன் - variables, data types, operators, 
+conditionals (if-elif-else), and loops (for/while). 6 mini projects 
+build பண்ணேன்: intro script, calculator, BMI calculator, grade 
+calculator, number guessing game, and multiplication table generator.
+
+### Project I built
+Week 1-ன் highlight - Mini Quiz App. இது 5 questions கொண்ட ஒரு 
+self-testing quiz, score tracking மற்றும் feedback message-உடன்.
+
+### Challenges I faced
+பல NameErrors, spelling mistakes, மற்றும் case-sensitivity issues 
+(.lower() எப்படி use பண்றது) fix பண்ண கத்துக்கிட்டேன். ஒவ்வொரு 
+error-உம் ஒரு learning opportunity-ஆ இருந்தது.
+
+### What I will learn next week
+Week 2-ல் Lists, Dictionaries, Tuples, Functions, and File Handling 
+கத்துக்கப்போறேன்.
