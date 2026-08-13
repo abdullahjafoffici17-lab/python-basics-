@@ -21,6 +21,10 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 
 **Day 6:** Learned for loops and while loops. Built a Multiplication Table generator and a Star Pattern printer using string multiplication (`"*" * n`). Debugged a TypeError from misplaced syntax and a logic bug where I accidentally used addition instead of multiplication.
 
+**Day 7:** Reviewed Week 1 concepts by building a Mini Quiz App with 5 questions covering variables, operators, and data types. Added score-based feedback logic using if-elif-else. Debugged multiple issues including NameErrors and case-sensitivity bugs (.lower() usage). Wrote my first weekly blog post reflecting on Week 1.
+
+**Day 8:** Started Week 2! Learned Lists - append(), remove(), indexing, and len(). Built a To-Do List app and upgraded it with user input and numbered formatting using a counter variable in a for loop.
+
 ## 📊 Progress
 
 - [x] Day 1: Variables, print(), comments
@@ -29,7 +33,8 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 - [x] Day 4: Operators, grade calculator
 - [x] Day 5: Conditionals, guessing game
 - [x] Day 6: Loops, multiplication table, star pattern
-- [ ] Day 7: Review + Mini Quiz + First Blog Post
+- [x] Day 7: Review, mini quiz app, first blog post
+- [x] Day 8: Lists, to-do list app
 
 ## 📝 Blog - Week 1
 
