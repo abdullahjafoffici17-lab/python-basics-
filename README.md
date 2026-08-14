@@ -25,6 +25,8 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 
 **Day 8:** Started Week 2! Learned Lists - append(), remove(), indexing, and len(). Built a To-Do List app and upgraded it with user input and numbered formatting using a counter variable in a for loop.
 
+**Day 9:** Learned Tuples (immutable) and Sets (unique items, no duplicates). Built a Unique Word Finder using set() to remove duplicates from a tuple. Practiced set operations (union, intersection) by finding common hobbies between two friends. Discovered that tuples don't have set methods like .union().
+
 ## 📊 Progress
 
 - [x] Day 1: Variables, print(), comments
@@ -35,7 +37,8 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 - [x] Day 6: Loops, multiplication table, star pattern
 - [x] Day 7: Review, mini quiz app, first blog post
 - [x] Day 8: Lists, to-do list app
-
+- [x] Day 9: Tuples, sets, unique word finder
+      
 ## 📝 Blog - Week 1
 
 ### What I learned this week
