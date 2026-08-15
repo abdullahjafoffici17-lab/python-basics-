@@ -40,8 +40,8 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 - [x] Day 7: Review, mini quiz app, first blog post
 - [x] Day 8: Lists, to-do list app
 - [x] Day 9: Tuples, sets, unique word finder
-   - [x] Day 10: Dictionaries, contact book, nested dictionaries
-   - [ ]    
+ - [x] Day 10: Dictionaries, contact book, nested dictionaries
+            
 ## 📝 Blog - Week 1
 
 ### What I learned this week
