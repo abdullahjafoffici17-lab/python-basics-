@@ -27,6 +27,8 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 
 **Day 9:** Learned Tuples (immutable) and Sets (unique items, no duplicates). Built a Unique Word Finder using set() to remove duplicates from a tuple. Practiced set operations (union, intersection) by finding common hobbies between two friends. Discovered that tuples don't have set methods like .union().
 
+**Day 10:** Learned Dictionaries - key-value pairs, updating values, adding new keys, and looping through dictionaries. Built a Contact Book and upgraded it to a Multi-Contact Book using nested dictionaries. Debugged multiple NameErrors while learning the correct syntax for accessing nested dictionary values (dict[key][inner_key]).
+
 ## 📊 Progress
 
 - [x] Day 1: Variables, print(), comments
@@ -38,7 +40,8 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 - [x] Day 7: Review, mini quiz app, first blog post
 - [x] Day 8: Lists, to-do list app
 - [x] Day 9: Tuples, sets, unique word finder
-      
+   - [x] Day 10: Dictionaries, contact book, nested dictionaries
+   - [ ]    
 ## 📝 Blog - Week 1
 
 ### What I learned this week
