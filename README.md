@@ -29,6 +29,19 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 
 **Day 10:** Learned Dictionaries - key-value pairs, updating values, adding new keys, and looping through dictionaries. Built a Contact Book and upgraded it to a Multi-Contact Book using nested dictionaries. Debugged multiple NameErrors while learning the correct syntax for accessing nested dictionary values (dict[key][inner_key]).
 
+### Day 11 – Functions
+- Learned how to define and call functions using `def`
+- Understood the difference between `return` and `print`
+- Learned parameters and how to pass values into functions
+- Built a Temperature Converter using two functions: `celsius_to_fahrenheit()` and `fahrenheit_to_celsius()`
+- Converted 11 pieces of earlier logic (Day 1–10) into reusable functions, including:
+  - `add()`, `multiply()`, `is_positive()`, `is_even()`
+  - `calculate_bmi()` (Day 3 BMI logic)
+  - `calculate_grade()` (Day 4 grade logic with attendance)
+  - `is_leap_year()`, `check_password_length()`, `greet()`
+- Debugged multiple NameErrors caused by spelling mismatches between parameter names and variable names inside functions
+- Key takeaway: functions make code reusable — write once, call many times with different values
+- 
 ## 📊 Progress
 
 - [x] Day 1: Variables, print(), comments
@@ -41,7 +54,7 @@ My Python learning journey - Day 1 onwards, on the path to becoming an AI Develo
 - [x] Day 8: Lists, to-do list app
 - [x] Day 9: Tuples, sets, unique word finder
  - [x] Day 10: Dictionaries, contact book, nested dictionaries
-            
+ - [x] Day 11 – Functions, Temperature Converter           
 ## 📝 Blog - Week 1
 
 ### What I learned this week
